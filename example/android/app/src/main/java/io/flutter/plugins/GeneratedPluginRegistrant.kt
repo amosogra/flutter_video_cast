@@ -1,4 +1,4 @@
-package io.flutter.plugins
+/* package io.flutter.plugins
 
 import androidx.annotation.Keep
 import io.flutter.Log
@@ -19,4 +19,4 @@ object GeneratedPluginRegistrant {
             )
         }
     }
-}
+} */
